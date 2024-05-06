@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="primaria">#02007b</color>
+    <color name="destaque">#00001F</color>
+    <color name="Cinza">#C1C1C1</color>
+
+    <color name="fundo_verde_mensagem">#dbf9c4</color>
+
+</resources>
